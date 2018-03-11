@@ -14,6 +14,11 @@
   {% include _partials/head.html %}
   <title>{{ title }}</title>
   {% include _third-party/analytics/index.html %}
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/default.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> 
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang | default: page.language | default: site.language }}">
@@ -26,20 +31,8 @@
                     </li>
 
                     <li>
-                        {% if page.scroll %}
-                        <a class="page-scroll" href="#about">About Me</a>
-                        {% else %}
-                        <a href="index.html">About Me</a>
-                        {% endif %}
-                    </li>
-                    
-                    <li>
-                        {% if page.scroll %}
-                        <a class="page-scroll" href="#CV">Curriculum Vitae</a>
-                        {% else %}
-                        <a href="index.html">Curriculum Vitae</a>
-                        {% endif %}
-                    </li>
+                        <a href="https://landongetz.com">Back to CV</a>
+                    </li>               
                     
                     <li>
                         <a href="https://landongetz.github.io/blog">Blog</a>
