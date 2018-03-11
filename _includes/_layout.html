@@ -17,7 +17,36 @@
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang | default: page.language | default: site.language }}">
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-left navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
 
+                    <li>
+                        {% if page.scroll %}
+                        <a class="page-scroll" href="#about">About Me</a>
+                        {% else %}
+                        <a href="index.html">About Me</a>
+                        {% endif %}
+                    </li>
+                    
+                    <li>
+                        {% if page.scroll %}
+                        <a class="page-scroll" href="#CV">Curriculum Vitae</a>
+                        {% else %}
+                        <a href="index.html">Curriculum Vitae</a>
+                        {% endif %}
+                    </li>
+                    
+                    <li>
+                        <a href="https://landongetz.github.io/blog">Blog</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
   {% assign container_class = "container " %}
   {% if site.sidebar.position %}
     {% assign container_class = container_class | append: 'sidebar-position-' | append: site.sidebar.position %}
