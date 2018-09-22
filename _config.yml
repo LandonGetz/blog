@@ -77,7 +77,7 @@ title: "Landon Getz" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Welcome to the rantings of a queer scientist, advocate, baker, and teacher." # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/blog"
 repo: "https://github.com/landongetz/blog"
 email: "landon.getz@dal.ca"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
