@@ -1,0 +1,15 @@
+{
+  "lang": "en-GB",
+  "name": "Landon Getz",
+  "short_name": "LandonGetz",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
