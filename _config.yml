@@ -76,7 +76,7 @@ lang: en-GB # Set the site language
 title: "Landon Getz" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Welcome to the rantings of a queer scientist, advocate, baker, and teacher." # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.landongetz.com/blog" # Site url, also used in jekyll-seo-tag
+url: "https://www.landongetz.com" # Site url, also used in jekyll-seo-tag
 baseurl: "http://landongetz.com/blog"
 repo: "https://github.com/landongetz/blog"
 email: "landon.getz@dal.ca"
