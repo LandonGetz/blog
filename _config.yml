@@ -68,7 +68,7 @@ defaults:
     scope:
     path: ""
     values:
-    image: "/images/IMG_0201.jpg" # Default image for sharing
+    image: "/blog/images/IMG_0201.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
