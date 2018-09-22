@@ -3,7 +3,7 @@ title: Hi
 feature_text: |
   ## Landon Getz
   Environmental Microbiology, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate.
-feature_image: "/images/banner.jpg"
+feature_image: "/blog/images/banner.jpg"
 excerpt: "Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate."
 ---
 
