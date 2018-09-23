@@ -60,7 +60,7 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text:
-    feature_image: "/images/IMG_0201.jpg"
+    feature_image: "/blog/images/IMG_0201.jpg"
 
 # 6. Jekyll collections settings
 defaults:
