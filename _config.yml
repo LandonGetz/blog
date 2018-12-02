@@ -59,7 +59,7 @@ defaults:
     scope:
         path: ""
     values:
-        image: "/assets/default-social-image.jpg" # Default image for sharing
+        image: "/blog/assets/default-social-image.jpg" # Default image for sharing
 
 # Pagination
 paginate: 5
