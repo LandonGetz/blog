@@ -1,27 +1,13 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
+# Set theme
+remote_theme: daviddarnes/alembic
 
-# 1. Files excluded from Jekyll builds
+# File excludes
 exclude:
 - README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
-- CNAME
 - Gemfile
 - Gemfile.lock
-- alembic-jekyll-theme.gemspec
-- examplepost.md
 
-# 2. Installed Gems
+# Set plugins
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -31,6 +17,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -46,32 +33,11 @@ social: # jekyll-seo-tag > social overrides
     - https://www.facebook.com/landon.getz
     - https://www.linkedin.com/in/landon-getz-19a473111
     - https://github.com/landongetz
-
-# 4. Jekyll settings
-sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Canada/Halifax # Timezone for blog posts and alike
-
-# 5. Collections
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "" # The post list page content
-    feature_text:
-    feature_image: ""
-
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-        path: ""
-    values:
-        image: "/assets/default-social-image.jpg" # Default image for sharing
-
-# 7. Site settings
+    
+# Site settings
+title: 'Landon Getz - Blog'
+permalink: pretty
+logo: "/assets/logo.svg"
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Landon Getz" # Site name or title, also used in jekyll-seo-tag
@@ -87,7 +53,18 @@ avatarurl: "https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80"
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
-# 8. Site navigation
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        image: "/assets/default-social-image.jpg" # Default image for sharing
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
 navigation_header:
   Home: /
   Blog: /blog/
@@ -116,3 +93,17 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Hacker News: "#ff6600"
   # Designer News: "#2D72D9"
   Email: ""
+  
+# Footer nav
+navigation_footer:
+  Back to top: "#top"
+
+# Collections
+collections:
+  posts:
+    title:
+    output: true
+    description: ""
+    feature_text: |
+        
+    feature_image: "/blog/images/IMG_0201.jpg"
