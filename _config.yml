@@ -61,15 +61,15 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text:
-    feature_image: "/blog/images/IMG_0201.jpg"
+    feature_image: ""
 
 # 6. Jekyll collections settings
 defaults:
   -
     scope:
-    path: ""
+        path: ""
     values:
-    image: "/blog/images/IMG_0201.jpg" # Default image for sharing
+        image: "/assets/default-social-image.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
