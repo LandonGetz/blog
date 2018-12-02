@@ -18,19 +18,19 @@
 <meta property="og:locale" content="en_GB" />
 <meta name="description" content="Welcome to the rantings of a queer scientist, advocate, baker, and teacher." />
 <meta property="og:description" content="Welcome to the rantings of a queer scientist, advocate, baker, and teacher." />
-<link rel="canonical" href="http://localhost:4000/offline/" />
-<meta property="og:url" content="http://localhost:4000/offline/" />
+<link rel="canonical" href="http://localhost:4000/blog/offline/" />
+<meta property="og:url" content="http://localhost:4000/blog/offline/" />
 <meta property="og:site_name" content="Landon Getz" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@landongetz" />
 <meta name="twitter:creator" content="@LandonGetz" />
 <script type="application/ld+json">
-{"description":"Welcome to the rantings of a queer scientist, advocate, baker, and teacher.","author":{"@type":"Person","name":"LandonGetz"},"@type":"WebPage","url":"http://localhost:4000/offline/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logo.svg"},"name":"LandonGetz"},"headline":"Looks like you’re offline","@context":"http://schema.org"}</script>
+{"description":"Welcome to the rantings of a queer scientist, advocate, baker, and teacher.","author":{"@type":"Person","name":"LandonGetz"},"@type":"WebPage","url":"http://localhost:4000/blog/offline/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/blog/assets/logo.svg"},"name":"LandonGetz"},"headline":"Looks like you’re offline","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
 
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="/blog/manifest.json">
     <meta name="theme-color" content="#242e2b"/>
 
     
@@ -79,8 +79,8 @@
 
     <header class="header">
   <div class="container">
-    <a class="logo" href="/">
-  <img src="/assets/logo.svg" alt="Landon Getz logo"/>
+    <a class="logo" href="/blog/">
+  <img src="/blog/assets/logo.svg" alt="Landon Getz logo"/>
 </a>
 
 
@@ -92,28 +92,28 @@
       
 
       <li class="item  item--nav">
-        <a href="/">Home</a>
+        <a href="/blog/">Home</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/blog/">Blog</a>
+        <a href="/blog/blog/">Blog</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/categories/">Categories</a>
+        <a href="/blog/categories/">Categories</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/search/">Search</a>
+        <a href="/blog/search/">Search</a>
       </li>
     
 
@@ -161,6 +161,8 @@ const applyToggle = (list, button, breakpoint) => {
 applyToggle('.list--nav', '.button', 640)
 
 </script>
+
+
 
   </div>
 
@@ -225,7 +227,7 @@ applyToggle('.list--nav', '.button', 640)
     }
 
     navigator.serviceWorker
-      .register("/sw.js")
+      .register("/blog/sw.js")
       .then(registration => {
         console.log("Service Worker: registered");
       })

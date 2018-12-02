@@ -16,19 +16,19 @@
 <meta property="og:locale" content="en_GB" />
 <meta name="description" content="Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate." />
 <meta property="og:description" content="Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/blog/" />
+<meta property="og:url" content="http://localhost:4000/blog/" />
 <meta property="og:site_name" content="Landon Getz" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@landongetz" />
 <meta name="twitter:creator" content="@LandonGetz" />
 <script type="application/ld+json">
-{"name":"Landon Getz","description":"Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate.","author":{"@type":"Person","name":"LandonGetz"},"@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logo.svg"},"name":"LandonGetz"},"headline":"Hi","sameAs":["https://twitter.com/landongetz","https://www.facebook.com/landon.getz","https://www.linkedin.com/in/landon-getz-19a473111","https://github.com/landongetz"],"@context":"http://schema.org"}</script>
+{"name":"Landon Getz","description":"Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate.","author":{"@type":"Person","name":"LandonGetz"},"@type":"WebSite","url":"http://localhost:4000/blog/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/blog/assets/logo.svg"},"name":"LandonGetz"},"headline":"Hi","sameAs":["https://twitter.com/landongetz","https://www.facebook.com/landon.getz","https://www.linkedin.com/in/landon-getz-19a473111","https://github.com/landongetz"],"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
 
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="/blog/manifest.json">
     <meta name="theme-color" content="#242e2b"/>
 
     
@@ -77,8 +77,8 @@
 
     <header class="header">
   <div class="container">
-    <a class="logo" href="/">
-  <img src="/assets/logo.svg" alt="Landon Getz logo"/>
+    <a class="logo" href="/blog/">
+  <img src="/blog/assets/logo.svg" alt="Landon Getz logo"/>
 </a>
 
 
@@ -90,28 +90,28 @@
       
 
       <li class="item  item--nav  item--current">
-        <a href="/">Home</a>
+        <a href="/blog/">Home</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/blog/">Blog</a>
+        <a href="/blog/blog/">Blog</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/categories/">Categories</a>
+        <a href="/blog/categories/">Categories</a>
       </li>
     
 
       
 
       <li class="item  item--nav">
-        <a href="/search/">Search</a>
+        <a href="/blog/search/">Search</a>
       </li>
     
 
@@ -160,6 +160,8 @@ applyToggle('.list--nav', '.button', 640)
 
 </script>
 
+
+
   </div>
 
   
@@ -167,7 +169,7 @@ applyToggle('.list--nav', '.button', 640)
 
 
 
-  <div class="feature" style="background-image: url(/images/banner.jpg)">
+  <div class="feature" style="background-image: url(/blog/images/banner.jpg)">
     <div class="container  typeset">
       <h2 id="landon-getz">Landon Getz</h2>
 <p>Environmental Microbiology, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate.</p>
@@ -186,7 +188,18 @@ applyToggle('.list--nav', '.button', 640)
 
     <h1>Hi</h1>
 
-    <p>Looking for a place to hear the stories of a queer scientist, baker, gardener, biotechnologist, and advocate? Well you are in the right place.</p>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-2"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118011177-2');
+</script>
+
+<p>Looking for a place to hear the stories of a queer scientist, baker, gardener, biotechnologist, and advocate? Well you are in the right place.</p>
 
 <p>I am currently a Ph.D. Candidate at Dalhousie University (Halifax, NS, Canada), and am studying <i>Vibrio</i> spp. environmental survival and host-pathogen interactions. I work as a lecturer for Dalhousie’s Chemistry department, am the external coordinator for the Dalhousie Urban Garden Society, work with Dalhousie’s <b>i</b>nternational <b>G</b>enetically <b>E</b>ngineered <b>M</b>achine (iGEM) team, actively advocate for LGBTQ+ rights, and am an occasional bread baker.</p>
 
@@ -250,7 +263,7 @@ applyToggle('.list--nav', '.button', 640)
     }
 
     navigator.serviceWorker
-      .register("/sw.js")
+      .register("/blog/sw.js")
       .then(registration => {
         console.log("Service Worker: registered");
       })

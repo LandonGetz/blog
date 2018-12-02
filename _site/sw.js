@@ -1,8 +1,8 @@
-const version = '20180922161633';
+const version = '20181202161458';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/lgbtq/2018/09/22/BertandErnie/","/general/2016/08/29/example-post-three/","/history/2016/08/28/example-post-two/","/general/2016/08/27/example-post-one/","/categories/","/elements/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/bloodban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/","/NewPost","/categories/","/elements/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

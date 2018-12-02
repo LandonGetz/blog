@@ -6,6 +6,15 @@ feature_text: |
 feature_image: "/blog/images/banner.jpg"
 excerpt: "Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate."
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118011177-2');
+</script>
 
 Looking for a place to hear the stories of a queer scientist, baker, gardener, biotechnologist, and advocate? Well you are in the right place. 
 
