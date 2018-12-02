@@ -1,5 +1,5 @@
 ---
-title: Gay Blood Ban Vs. Gay Sperm Donation - A Disconnect
+title: Gay Blood Vs. Gay Sperm Donation - A Disconnect
 categories:
 - BloodBan
 - LGBTQ+
