@@ -84,12 +84,12 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: $headerColour;
+  color: $headerColour;
   a {
-    color: $captionColour;
+    color: $headerColour;
     &:hover {
-      color: $backgroundColour;
+      color: $headerColour;
     }
   }
   .container {

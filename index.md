@@ -1,10 +1,11 @@
 ---
-title: Hi
+title: Welcome
 feature_text: |
   ## Landon Getz
   Environmental Microbiology, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate.
 feature_image: "/blog/images/banner.jpg"
 excerpt: "Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Synthetic Biology Junkie, LGBTQ+ Advocate."
+aside: true
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-2"></script>
@@ -16,13 +17,11 @@ excerpt: "Environmental Microbiologist, Undergraduate Instructor, Avid Baker, Ob
   gtag('config', 'UA-118011177-2');
 </script>
 
-Looking for a place to hear the stories of a queer scientist, baker, gardener, biotechnologist, and advocate? Well you are in the right place. 
+Looking for a place to hear the stories of a queer scientist, baker, gardener, biotechnologist, and advocate? You are in the right place. 
 
-I am currently a Ph.D. Candidate at Dalhousie University (Halifax, NS, Canada), and am studying <i>Vibrio</i> spp. environmental survival and host-pathogen interactions. I work as a lecturer for Dalhousie's Chemistry department, am the external coordinator for the Dalhousie Urban Garden Society, work with Dalhousie's <b>i</b>nternational <b>G</b>enetically <b>E</b>ngineered <b>M</b>achine (iGEM) team, actively advocate for LGBTQ+ rights, and am an occasional bread baker. 
+I am a Ph.D. Candidate at Dalhousie University (Halifax, NS, Canada), and am studying <i>Vibrio</i> spp. environmental survival and host-pathogen interactions. I work as a lecturer for Dalhousie's Chemistry department, am the external coordinator for the Dalhousie Urban Garden Society, work with Dalhousie's <b>i</b>nternational <b>G</b>enetically <b>E</b>ngineered <b>M</b>achine (iGEM) team, actively advocate for LGBTQ+ rights, and am a casual bread baker. 
 
 ## Contact
-
-If you are looking to get ahold of me (or any of the organizations I work with), you can find there information here:
 
 Me:
 	- <a href="mailto:landon.getz@dal.ca">Email</a>
