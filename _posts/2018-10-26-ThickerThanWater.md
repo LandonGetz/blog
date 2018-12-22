@@ -5,9 +5,11 @@ categories:
 - LGBTQ+
 - Ethics
 - Law & Policy
-feature_image: "https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a90b15f9fff5cde1424537d1af73a1b3&auto=format&fit=crop&w=2167&q=80"
+feature_image: "https://impactethics.files.wordpress.com/2018/10/red_blood_cell.jpg"
 excerpt: Landon J. Getz provides an update on Canadian Blood Services’ progress in updating outmoded policies on gay blood donation.
 ---
+Published on <a href="www.impactethics.ca/" target="_blank">Impact Ethics</a> on October 26th, 2018.
+
 <b>Landon J. Getz</b> provides an update on Canadian Blood Services’ progress in updating outmoded policies on gay blood donation.
 <hr>
 In the past year Canadian Blood Services, and Health Canada, have made little progress on their blood donation policies for gay men. The Liberal Party of Canada made <a href="https://www.liberal.ca/realchange/ending-msm-blood-donation-ban/" target="_blank" rel="noopener">significant promises</a> to the LGBTQ+ community in terms of the gay blood ban and have yet to deliver on these promises. As an update to the <a href="https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/" target="_blank" rel="noopener">previous article</a> here on<em> Impact Ethics</em>, I will begin by covering a quick history on the blood ban in Canada, move into what changes we have seen on this issue in the past year, and end on what needs to be done to improve the state of Canadian policy.

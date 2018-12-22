@@ -1,8 +1,8 @@
-const version = '20181222191912';
+const version = '20181222195644';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/blood%20ban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2018/10/26/ThickerThanWater/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/blood%20ban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2018/10/26/ThickerThanWater/","/privacy/sequencing/ethics/law%20&%20policy/2018/05/11/DNAPrivacyIssuesIE/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2017/08/24/ReflectionBloodPolicyIE/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

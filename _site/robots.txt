@@ -1,1 +1,1 @@
-Sitemap: www.landongetz.github.io/blog/blog/sitemap.xml
+Sitemap: http://localhost:4000/blog/sitemap.xml

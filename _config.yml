@@ -42,7 +42,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Landon Getz" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Welcome to the rantings of a queer scientist, advocate, baker, and teacher." # Site description and default description, also used in jekyll-seo-tag
+description: "The thoughts of a queer scientist, advocate, baker, and teacher (in no particular order)." # Site description and default description, also used in jekyll-seo-tag
 url: "www.landongetz.github.io/blog" # Site url, also used in jekyll-seo-tag
 baseurl: "/blog"
 repo: "https://github.com/landongetz/blog"
