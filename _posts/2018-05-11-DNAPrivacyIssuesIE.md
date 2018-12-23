@@ -6,6 +6,7 @@ categories:
 - Ethics
 - Law & Policy
 feature_image: "/blog/images/dnaprivacyIE.jpg"
+image: https://impactethics.files.wordpress.com/2018/05/dna.jpg
 excerpt: Landon J. Getz explores the privacy minefield of commercial DNA Sequencing, and how it has become relevant in recent news.
 ---
 Published on <a href="www.impactethics.ca/" target="_blank">Impact Ethics</a> on May 11th, 2018.
