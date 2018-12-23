@@ -5,7 +5,7 @@ categories:
 - LGBTQ+
 - Ethics
 Web: https://landongetz.github.io/blog/bloodban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/
-image: https://www.flickr.com/photos/70626035@N00/15286494053/in/photolist-phPh7i-djmrGq-djmsAz-djmn37-djkV67-5FCC2H-djmtS8-djm5K2-djmnxW-djkTbm-djmxr8-djmwrL-djmtGh-djkSV1-djkRij-4oKH5j-q4PieJ-c6E6eu-24HEjtq-dT9Z9r-pAQYsy-dMJD2i-7HEAKE-d8ZSaC-uuJcY-8JYgqe-Q4nZJX-22LZibZ-TRhNqK-8R2A51-QSKarS-rz1T9Y-6YXq11-hYwimf-87oXPu-23UPR7A-Ew2FTZ-EugVdD-p95fbg-234xKXJ-2kgBcD-sgQ2XZ-6HSP9-rbfCV-pP1aaH-8Dc9XM-qAFq1w-KcqUFT-oGi1bs-cB8un7/
+image: https://www.flickr.com/photos/70626035@N00/15286494053/in/photolist-phPh7i-djmrGq-djmsAz-djmn37-djkV67-5FCC2H-djmtS8-djm5K2-djmnxW-djkTbm-djmxr8-djmwrL-djmtGh-djkSV1-djkRij-4oKH5j-q4PieJ-c6E6eu-24HEjtq-dT9Z9r-pAQYsy-dMJD2i-7HEAKE-d8ZSaC-uuJcY-8JYgqe-Q4nZJX-22LZibZ-TRhNqK-8R2A51-QSKarS-rz1T9Y-6YXq11-hYwimf-87oXPu-23UPR7A-Ew2FTZ-EugVdD-p95fbg-234xKXJ-2kgBcD-sgQ2XZ-6HSP9-rbfCV-pP1aaH-8Dc9XM-qAFq1w-KcqUFT-oGi1bs-cB8un7
 feature_image: "https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a90b15f9fff5cde1424537d1af73a1b3&auto=format&fit=crop&w=2167&q=80"
 excerpt: I've long argued that Canadian Blood Services and Health Canada's current regulation regarding the Gay Blood Ban is misguided. Is Health Canada getting it wrong again with the Assisted Human Reproduction Act?
 ---
