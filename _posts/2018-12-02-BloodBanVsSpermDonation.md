@@ -5,7 +5,7 @@ categories:
 - LGBTQ+
 - Ethics
 Web: https://landongetz.github.io/blog/bloodban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/
-image: "/blog/images/HIVBlood.jpg"
+image: "/images/HIVBlood.jpg"
 feature_image: "https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a90b15f9fff5cde1424537d1af73a1b3&auto=format&fit=crop&w=2167&q=80"
 excerpt: I've long argued that Canadian Blood Services and Health Canada's current regulation regarding the Gay Blood Ban is misguided. Is Health Canada getting it wrong again with the Assisted Human Reproduction Act?
 ---
