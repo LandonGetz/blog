@@ -6,7 +6,7 @@ categories:
 - Ethics
 - Law & Policy
 feature_image: "/blog/images/HPIEpost.png"
-image: https://impactethics.files.wordpress.com/2017/08/screenshot2017-06-12at3-28-45pm.png
+image: "/blog/images/HPIEpost.png"
 excerpt: Landon J. Getz reflects on the current sexual abstention period within Canada for blood donations by men who have sex with men.
 ---
 
