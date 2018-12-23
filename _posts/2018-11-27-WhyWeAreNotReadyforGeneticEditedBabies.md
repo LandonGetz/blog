@@ -67,6 +67,8 @@ The human genome belongs to all of us. As such, we need to commit to the hard wo
 
 In this regard it is heartwarming to have <a href="https://www.technologyreview.com/s/612465/crispr-inventor-feng-zhang-calls-for-moratorium-on-baby-making/">Feng Zhang</a> call for a moratorium on implantation of edited embryos and remind his scientific colleagues that “in 2015, the international research community said it would be irresponsible to proceed with any germline editing without ‘broad societal consensus about the appropriateness of the proposed application.’”
 
+<hr>
+
 <h4>Disclosure statement</h4>
 
 Françoise Baylis has received funding from the Canadian Institute of Health Research and the Canada Research Chairs Program.
