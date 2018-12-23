@@ -8,11 +8,11 @@ feature_image: https://landongetz.github.io/blog/images/GeneEditBabies.jpg
 image: https://landongetz.github.io/blog/images/GeneEditBabies.jpg
 excerpt: Written by Françoise Baylis, Graham Dellaire, and Landon J. Getz, originally published at The Conversation.
 ---
+<hr>
+<span><a href="https://theconversation.com/profiles/francoise-baylis-392841">Françoise Baylis</a>, Professor and Canada Research Chair in Bioethics and Philosophy, <em><a href="http://theconversation.com/institutions/dalhousie-university-1329">Dalhousie University</a></em>; <a href="https://theconversation.com/profiles/graham-dellaire-402398">Graham Dellaire</a>, Director of Research and Professor of Pathology, <em><a href="http://theconversation.com/institutions/dalhousie-university-1329">Dalhousie University</a></em>, and <a href="https://theconversation.com/profiles/landon-j-getz-521552">Landon J Getz</a>, Ph.D. Candidate in Microbiology and Immunology, <em><a href="http://theconversation.com/institutions/dalhousie-university-1329">Dalhousie University</a></em></span>
 
-
-<b>Published originally on <a href="www.impactethics.ca/" target="_blank">The Conversation</a> on November 27th, 2018 and written by Françoise Baylis, Graham Dellaire, and Landon J. Getz.</b>
-
-
+This article is republished from <a href="http://theconversation.com">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756">original article</a>.
+<hr>
 The media is buzzing with the <a href="https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/">surprise news</a> that a <a href="https://www.sciencemag.org/news/2018/11/crispr-bombshell-chinese-researcher-claims-have-created-gene-edited-twins">Chinese researcher, Jainkui He</a>, has <a href="https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d">created the world’s first genome-edited twins</a>. He did this, ostensibly, to provide resistance to HIV, the virus that causes AIDS.
 
 Prof. He, reportedly working with former Rice University supervisor Michael Deem, capitalized on work in 2012 by Jennifer Doudna and Emmanuel Charpentier, who introduced a new and easier way of altering the DNA of human and non-human organisms using <a href="https://theconversation.com/beyond-just-promise-crispr-is-delivering-in-the-lab-today-77596">CRISPR-Cas9 technology</a>. He also built upon the work of molecluar biologist <a href="https://www.broadinstitute.org/bios/feng-zhang">Feng Zhang</a>, who optimized this genome editing system for use in human cells.
@@ -74,3 +74,7 @@ In this regard it is heartwarming to have <a href="https://www.technologyreview.
 Françoise Baylis has received funding from the Canadian Institute of Health Research and the Canada Research Chairs Program.
 Graham Dellaire receives funding from the Canadian Institutes of Health Research (CIHR).
 Landon J Getz receives funding from the Natural Sciences and Engineering Research Council of Canada.
+
+<!-- Below is The Conversation's page counter tag. Please DO NOT REMOVE. -->
+<img src="https://counter.theconversation.com/content/107756/count.gif?distributor=republish-lightbox-basic" alt="The Conversation" width="1" height="1" style="border: none !important; box-shadow: none !important; margin: 0 !important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0 !important; text-shadow: none !important" />
+<!-- End of code. If you don't see any code above, please get new code from the Advanced tab after you click the republish button. The page counter does not collect any personal data. More info: http://theconversation.com/republishing-guidelines -->
