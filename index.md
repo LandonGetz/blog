@@ -5,7 +5,7 @@ feature_text: |
   Environmental/Medical Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Novice Synthetic Biologist, LGBTQ+ Advocate..
 feature_image: "/blog/images/banner.jpg"
 excerpt: "Environmental/Medical Microbiologist, Undergraduate Instructor, Avid Baker, Obsessive Gardener, Novice Synthetic Biologist, LGBTQ+ Advocate."
-image: "/blog/images/banner.jpg"
+image: https://landongetz.github.io/blog/images/banner.jpg
 aside: true
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
