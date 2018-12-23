@@ -1,1 +1,1 @@
-Sitemap: www.landongetz.github.io/blog/blog/sitemap.xml
+Sitemap: https://landongetz.github.io/blog/blog/sitemap.xml
