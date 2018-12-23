@@ -4,13 +4,13 @@ categories:
 - Gene Editing
 - Ethics
 - Law & Policy
-feature_image: https://images.theconversation.com/files/247608/original/file-20181127-76746-1ons9mi.jpg?ixlib=rb-1.1.0&amp;rect=67%2C212%2C2943%2C1469&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop
-image: https://images.theconversation.com/files/247608/original/file-20181127-76746-1ons9mi.jpg?ixlib=rb-1.1.0&amp;rect=67%2C212%2C2943%2C1469&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop
+feature_image: https://landongetz.github.io/blog/images/GeneEditBabies.jpg
+image: https://landongetz.github.io/blog/images/GeneEditBabies.jpg
 excerpt: Written by Françoise Baylis, Graham Dellaire, and Landon J. Getz, originally published at The Conversation.
 ---
 
 
-<b>Published originally on <a href="www.impactethics.ca/" target="_blank">The Conversation</a> on November 27th, 2018.</b>
+<b>Published originally on <a href="www.impactethics.ca/" target="_blank">The Conversation</a> on November 27th, 2018 and written by Françoise Baylis, Graham Dellaire, and Landon J. Getz.</b>
 
 
 The media is buzzing with the <a href="https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/">surprise news</a> that a <a href="https://www.sciencemag.org/news/2018/11/crispr-bombshell-chinese-researcher-claims-have-created-gene-edited-twins">Chinese researcher, Jainkui He</a>, has <a href="https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d">created the world’s first genome-edited twins</a>. He did this, ostensibly, to provide resistance to HIV, the virus that causes AIDS.
@@ -66,3 +66,9 @@ Although He disavows any interest in so-called “designer babies” whose paren
 The human genome belongs to all of us. As such, we need to commit to the hard work of making good on the 2015 admonition by the Organizing Committee for the International Summit on Human Gene Editing to work towards <a href="http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=12032015a">“broad societal consensus”</a> on how we should proceed with, or not proceed with, editing it.
 
 In this regard it is heartwarming to have <a href="https://www.technologyreview.com/s/612465/crispr-inventor-feng-zhang-calls-for-moratorium-on-baby-making/">Feng Zhang</a> call for a moratorium on implantation of edited embryos and remind his scientific colleagues that “in 2015, the international research community said it would be irresponsible to proceed with any germline editing without ‘broad societal consensus about the appropriateness of the proposed application.’”
+
+<h4>Disclosure statement</h4>
+
+Françoise Baylis has received funding from the Canadian Institute of Health Research and the Canada Research Chairs Program.
+Graham Dellaire receives funding from the Canadian Institutes of Health Research (CIHR).
+Landon J Getz receives funding from the Natural Sciences and Engineering Research Council of Canada.
