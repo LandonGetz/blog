@@ -39,9 +39,7 @@
 
     
 
-    <link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=16" sizes="16x16">
-<link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=32" sizes="32x32">
-<link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=96" sizes="96x96">
+    
 <link rel="shortcut icon" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80">
 
 
@@ -126,42 +124,42 @@
       </li>
     
   </ul>
-</nav>
-
-
-<template id="buttontoggle">
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
 
   </button>
-</template>
+</nav>
+
 
 <script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
 
-const nav = document.querySelector('.nav')
-const buttonTemplate = document.querySelector('#buttontoggle')
-const button = document.importNode(buttonTemplate.content, true)
-nav.appendChild(button)
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
 
-const applyToggle = (list, button, breakpoint) => {
-  const navList = document.querySelector(list)
-  if (document.body.clientWidth < breakpoint) {
-    const navHeight = navList.clientHeight
-    const navButton = document.querySelector(button)
-    navList.style.maxHeight = '0px'
-
-    navButton.onclick = () => {
-      if (navList.style.maxHeight == '0px') {
-        navList.style.maxHeight = `${navHeight}px`
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
       } else {
-        navList.style.maxHeight = '0px'
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
       }
     }
   }
-}
 
-applyToggle('.list--nav', '.button', 640)
+  collapseNav()
 
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
 </script>
 
   </div>
@@ -279,6 +277,28 @@ applyToggle('.list--nav', '.button', 640)
   <section class="section  typeset">
     <h2 id="lgbtq">LGBTQ+</h2>
     <ul class="list  list--posts">
+      
+        
+        <li class="item  item--post">
+          <article class="article  article--post  typeset">
+            <h3><a href="/blog/lgbtq+/stem/2019/01/12/LGBTSTEMinar19/">LGBTSTEMinar 2019</a></h3>
+            
+
+<small class="small  post-meta">
+  
+  
+    
+      <span class="label  label--category"><a href="/blog/categories/#lgbtq+">LGBTQ+</a></span>,
+    
+      <span class="label  label--category"><a href="/blog/categories/#stem">STEM</a></span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2019-01-12T00:00:00-04:00" class="time">12 Jan 2019</time>
+</small>
+
+            <p>The LBGTSTEMinar was easily one of the most impactful events I’ve been to in my (short) lifetime.</p>
+
+          </article>
+        </li>
       
         
         <li class="item  item--post">
@@ -735,6 +755,37 @@ applyToggle('.list--nav', '.button', 640)
         </li>
       
     </ul>
+    <hr/>
+  </section>
+
+  
+  <section class="section  typeset">
+    <h2 id="stem">STEM</h2>
+    <ul class="list  list--posts">
+      
+        
+        <li class="item  item--post">
+          <article class="article  article--post  typeset">
+            <h3><a href="/blog/lgbtq+/stem/2019/01/12/LGBTSTEMinar19/">LGBTSTEMinar 2019</a></h3>
+            
+
+<small class="small  post-meta">
+  
+  
+    
+      <span class="label  label--category"><a href="/blog/categories/#lgbtq+">LGBTQ+</a></span>,
+    
+      <span class="label  label--category"><a href="/blog/categories/#stem">STEM</a></span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2019-01-12T00:00:00-04:00" class="time">12 Jan 2019</time>
+</small>
+
+            <p>The LBGTSTEMinar was easily one of the most impactful events I’ve been to in my (short) lifetime.</p>
+
+          </article>
+        </li>
+      
+    </ul>
     
   </section>
 
@@ -785,6 +836,10 @@ applyToggle('.list--nav', '.button', 640)
         <a href="#reflection">Reflection</a>
       </li>
     
+      <li class="item  item--category">
+        <a href="#stem">STEM</a>
+      </li>
+    
   </ul>
 </nav>
 
@@ -799,7 +854,7 @@ applyToggle('.list--nav', '.button', 640)
 <footer class="footer">
   <div class="container">
     <div class="copyright  typeset">
-      <small class="small">&copy; Landon Getz 2018</small>
+      <small class="small">&copy; Landon Getz 2019</small>
     </div>
 
     

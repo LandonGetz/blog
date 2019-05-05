@@ -45,9 +45,7 @@
 
     
 
-    <link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=16" sizes="16x16">
-<link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=32" sizes="32x32">
-<link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80?s=96" sizes="96x96">
+    
 <link rel="shortcut icon" href="https://s.gravatar.com/avatar/00973bfb820b39a6c8ca08f65ac3d811?s=80">
 
 
@@ -132,42 +130,42 @@
       </li>
     
   </ul>
-</nav>
-
-
-<template id="buttontoggle">
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
 
   </button>
-</template>
+</nav>
+
 
 <script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
 
-const nav = document.querySelector('.nav')
-const buttonTemplate = document.querySelector('#buttontoggle')
-const button = document.importNode(buttonTemplate.content, true)
-nav.appendChild(button)
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
 
-const applyToggle = (list, button, breakpoint) => {
-  const navList = document.querySelector(list)
-  if (document.body.clientWidth < breakpoint) {
-    const navHeight = navList.clientHeight
-    const navButton = document.querySelector(button)
-    navList.style.maxHeight = '0px'
-
-    navButton.onclick = () => {
-      if (navList.style.maxHeight == '0px') {
-        navList.style.maxHeight = `${navHeight}px`
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
       } else {
-        navList.style.maxHeight = '0px'
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
       }
     }
   }
-}
 
-applyToggle('.list--nav', '.button', 640)
+  collapseNav()
 
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
 </script>
 
   </div>
@@ -208,6 +206,33 @@ applyToggle('.list--nav', '.button', 640)
     
   <section class="section  typeset">
     <ul class="list  list--posts">
+      
+        <li class="item  item--post">
+          <article class="article  article--post">
+
+            <h2><a href="/blog/privacy/sequencing/ethics/law%20&%20policy/2018/05/11/DNAPrivacyIssuesIE/">The Privacy Implications of Human DNA Sequencing</a></h2>
+            
+
+<small class="small  post-meta">
+  
+  
+    
+      <span class="label  label--category"><a href="/blog/categories/#privacy">Privacy</a></span>,
+    
+      <span class="label  label--category"><a href="/blog/categories/#sequencing">Sequencing</a></span>,
+    
+      <span class="label  label--category"><a href="/blog/categories/#ethics">Ethics</a></span>,
+    
+      <span class="label  label--category"><a href="/blog/categories/#law & policy">Law & Policy</a></span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2018-05-11T00:00:00-03:00" class="time">11 May 2018</time>
+</small>
+
+            <p>Landon J. Getz explores the privacy minefield of commercial DNA Sequencing, and how it has become relevant in recent news.</p>
+
+
+          </article>
+        </li>
       
         <li class="item  item--post">
           <article class="article  article--post">
@@ -264,7 +289,7 @@ applyToggle('.list--nav', '.button', 640)
 <footer class="footer">
   <div class="container">
     <div class="copyright  typeset">
-      <small class="small">&copy; Landon Getz 2018</small>
+      <small class="small">&copy; Landon Getz 2019</small>
     </div>
 
     
