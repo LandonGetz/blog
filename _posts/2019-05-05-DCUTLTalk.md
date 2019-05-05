@@ -6,7 +6,7 @@ categories:
 - Teaching & Learning
 image: https://landongetz.github.io/blog/images/classroomdiversity.jpg
 feature_image: https://landongetz.github.io/blog/images/classroomdiversity.jpg
-excerpt: A summary of my presentaiton at the Dalhousie Conference on University Teaching and Learning on LGBTQ+ Inclusive Spaces. "Quick tips" included! 
+excerpt: A summary of my presentation at the Dalhousie Conference on University Teaching and Learning on LGBTQ+ Inclusive Spaces. "Quick tips" included! 
 ---
 
 For the educators in the room, have you ever had undergraduate classes that refuse to engage with your course content? I’ve been thinking a lot about those students, and wondering how we can change our teaching to help them engage more actively. 
