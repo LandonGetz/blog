@@ -5,7 +5,7 @@ categories:
 - STEM
 - Teaching & Learning
 image: https://landongetz.github.io/blog/images/classroomdiveristy.jpg
-feature_image: https://landongetz.github.io/blog/images/classroomdiveristy.jpg
+feature_image: https://landongetz.github.io/blog/images/classroomdiversity.jpg
 excerpt: A summary of my presentaiton at the Dalhousie Conference on University Teaching and Learning on LGBTQ+ Inclusive Spaces. "Quick tips" included! 
 ---
 
