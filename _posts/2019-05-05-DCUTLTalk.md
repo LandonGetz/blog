@@ -29,11 +29,11 @@ My talk at the DCUTL conference was titled “Creating LGBTQ+ Inclusive Spaces f
 
 The primary “action items” I asked people to consider including in their classrooms were the following:
 
-1. Inclusion of Pronouns
+- Inclusion of Pronouns
 
 My purpose here was to encourage the normalizing of pronoun usage in the classroom. Introducing yourself, as the instructor, with pronouns at the beginning of the semester signals to LGTBQ+ students that you are aware of them and you are a supportive individual. The same is achieved through the inclusion of pronouns in email signatures and in class syllabi. These small actions help non-binary and trans students to identify their pronouns in class without feeling singled out or alone.
 
-2. Become a “Visible Ally”
+- Become a “Visible Ally”
 
 My second suggestion is what I’m referring to as “Visible Allyship.” This essentially means that it is not enough to simply *be* an ally, your students also need to *know* that you are an ally. This can be done through the use of small things like rainbow pins, rainbow flags, and other LGBTQ+ identifying paraphernalia. Importantly, these small objects, when hanging in your office or classroom, signal to LGBTQ+ students that this is a space where they are welcome.
 
@@ -41,7 +41,7 @@ This has been my experience anecdotally. My current PhD supervisor, then honours
 
 {% include figure.html image="https://landongetz.github.io/blog/images/CelebrateDiversity.jpg" caption="The very same Celebrate Diversity pin that my supervisor had (has) in his office. (Dal.ca)" %}
 
-3. Classroom Code of Conducts
+- Classroom Code of Conducts
 
 This is a big one. Much like conferences should always have an explicit code of conduct, which explains what behaviours are not acceptable during the conference, so to should the classroom have a code of conduct. These documents can be short, and signal to students that they have entered into a location where their peers are expected to engage in respectful and courteous ways with you and others within the classroom environment. This can include statements like:
 
@@ -54,7 +54,7 @@ This is a big one. Much like conferences should always have an explicit code of 
 
 These codes of conduct should be made explicit on day one, and be included in the syllabus. It is also a good idea to have a plan for what the students should do if this code of conduct is breached, and make that explicit in your syllabus as well.
 
-4. Highlight LGBTQ+ Staff, Faculty, and Students (when appropriate).
+- Highlight LGBTQ+ Staff, Faculty, and Students (when appropriate).
 
 For many LGBTQ+ youth, finding role models is hard. This is especially true in traditionally heterosexual and cis-gendered environments like Science, Technology, Engineering, and Mathematics. For this reason, I think it is incredibly beneficial to students to highlight those in your programs (and beyond) that identify as a member of a minority group. Doing this allows students to find role models, and recongize the folks they can be immediately open with and ask questions (about being LGBTQ+ in STEM).
 
