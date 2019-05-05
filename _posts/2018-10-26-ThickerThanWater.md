@@ -6,7 +6,7 @@ categories:
 - Ethics
 - Law & Policy
 image: https://impactethics.files.wordpress.com/2018/10/red_blood_cell.jpg
-feature_image: "https://impactethics.files.wordpress.com/2018/10/red_blood_cell.jpg"
+feature_image: https://impactethics.files.wordpress.com/2018/10/red_blood_cell.jpg
 excerpt: Landon J. Getz provides an update on Canadian Blood Services’ progress in updating outmoded policies on gay blood donation.
 ---
 Published on <a href="www.impactethics.ca/" target="_blank">Impact Ethics</a> on October 26th, 2018.
