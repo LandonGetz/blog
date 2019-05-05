@@ -3,8 +3,8 @@ title: LGBTSTEMinar 2019
 categories:
 - LGBTQ+
 - STEM
-image: 
-feature_image: 
+image: https://epi-rsc.rsc-cdn.org/globalassets/07-news-events/rsc-news/news-articles/2019/01-january/5150_lgbtsteminar-networking-3_f2a-1600.jpg?version=67d5f1eb&width=1120&format=jpg&quality=60
+feature_image: "https://epi-rsc.rsc-cdn.org/globalassets/07-news-events/rsc-news/news-articles/2019/01-january/5150_lgbtsteminar-networking-3_f2a-1600.jpg?version=67d5f1eb&width=1120&format=jpg&quality=60"
 excerpt: The LBGTSTEMinar was easily one of the most impactful events I've been to in my (short) lifetime.
 ---
 
