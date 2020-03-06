@@ -4,7 +4,7 @@ categories:
  - LGBTQ+
  - Canada
 image: https://upload.wikimedia.org/wikipedia/commons/f/f3/Rainbow_Crosswalk_%2810569042683%29.jpg
-feature_image: https://upload.wikimedia.org/wikipedia/commons/f/f3/Rainbow_Crosswalk_%2810569042683%29.jpg
+feature_image: https://landongetz.github.io/blog/images/rainbowcrosswalk.jpg
 excerpt: The reality is that defacing rainbow crosswalks is quite obviously a nation-wide problem.
 ---
 <hr>
