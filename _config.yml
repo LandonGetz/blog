@@ -42,7 +42,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Landon Getz" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "The thoughts of a queer scientist, advocate, baker, and teacher (in no particular order)." # Site description and default description, also used in jekyll-seo-tag
+description: "The thoughts of a queer scientist, advocate, baker, and teacher in no particular order." # Site description and default description, also used in jekyll-seo-tag
 url: "https://landongetz.github.io/blog" # Site url, also used in jekyll-seo-tag
 baseurl: "/blog"
 repo: "https://github.com/landongetz/blog"
@@ -66,12 +66,14 @@ paginate: 5
 paginate_path: blog/page:num
 
 navigation_header:
-  Home: /
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  CV: http://www.landongetz.com
-
+- title: Home
+  url: /
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: CV
+  url: http://www.landongetz.com
 
 navigation_footer:
   Created by David Darnes: https://darn.es/

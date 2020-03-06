@@ -56,8 +56,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sitemap (0.13.0)
-      jekyll (~> 3.3)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.12.0)
@@ -97,16 +97,16 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8)
-  jekyll-default-layout (~> 0.1)
-  jekyll-feed (~> 0.9)
-  jekyll-mentions (~> 1.2)
+  jekyll (> 3.8)
+  jekyll-default-layout (> 0.1)
+  jekyll-feed (> 0.9)
+  jekyll-mentions (> 1.2)
   jekyll-paginate (~> 1.1)
-  jekyll-redirect-from (~> 0.12)
-  jekyll-remote-theme (~> 0.3)
-  jekyll-seo-tag (~> 2.3)
-  jekyll-sitemap (~> 0.13)
-  jemoji (~> 0.9)
+  jekyll-redirect-from (> 0.12)
+  jekyll-remote-theme (> 0.3)
+  jekyll-seo-tag (> 2.3)
+  jekyll-sitemap (> 0.13)
+  jemoji (> 0.9)
 
 BUNDLED WITH
    1.17.2
