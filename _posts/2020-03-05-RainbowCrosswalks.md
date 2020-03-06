@@ -3,6 +3,7 @@ title: Rainbow crosswalk vandalism isn’t just an isolated local event, but a n
 categories:
  - LGBTQ+
  - Canada
+url: https://landongetz.github.io/blog/lgbtq+/canada/2020/03/05/RainbowCrosswalks/
 image: https://landongetz.github.io/blog/images/rainbowcrosswalk.jpg
 feature_image: https://landongetz.github.io/blog/images/rainbowcrosswalk.jpg
 excerpt: The reality is that defacing rainbow crosswalks is quite obviously a nation-wide problem.
