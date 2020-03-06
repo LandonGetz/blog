@@ -9,7 +9,7 @@ feature_image: https://landongetz.github.io/blog/images/rainbowcrosswalk.jpg
 excerpt: The reality is that defacing rainbow crosswalks is quite obviously a nation-wide problem.
 ---
 <hr>
-This is a joint blog post by Landon Getz and Alex Bond, appearing today on both their blogs. If you’re interested in reprinting it, [get in touch](http://www.landongetz.com).
+This is a joint blog post by Landon Getz and [Alex Bond](https://labandfield.wordpress.com/2020/03/06/rainbow-crosswalk-vandalism-isnt-just-an-isolated-local-event-but-a-national-problem/), appearing today on both their blogs. If you’re interested in reprinting it, [get in touch](http://www.landongetz.com).
 <hr>
 
 From Grand Falls-Windsor, NL to Burnaby, BC, Pride is celebrated in Canada across the summer months. Towns and cities across the country raise the rainbow flag and celebrate with parades, concerts, and parties. Increasingly, many are following the lead of Sydney, Australia, which painted a giant rainbow crosswalk in 2013 to mark Sydney Mardi Gras. Local councils describe these as great ways to signal the [welcoming and inclusive nature of the town](https://www.cbc.ca/news/canada/new-brunswick/rainbow-crosswalk-woodstock-community-pride-paint-1.4210942), and celebrating its diversity.
