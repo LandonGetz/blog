@@ -1,8 +1,8 @@
-const version = '20190505110819';
+const version = '20200306102616';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/lgbtq+/stem/teaching%20&%20learning/2019/05/05/DCUTLTalk/","/lgbtq+/stem/2019/01/12/LGBTSTEMinar19/","/reflection/2018/12/31/NewYearsEveReflection/","/blood%20ban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/","/gene%20editing/ethics/law%20&%20policy/2018/11/27/WhyWeAreNotReadyforGeneticEditedBabies/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2018/10/26/ThickerThanWater/","/privacy/sequencing/ethics/law%20&%20policy/2018/05/11/DNAPrivacyIssuesIE/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2017/08/24/ReflectionBloodPolicyIE/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/lgbtq+/canada/2020/03/05/RainbowCrosswalks/","/lgbtq+/stem/teaching%20&%20learning/2019/05/05/DCUTLTalk/","/lgbtq+/stem/2019/01/12/LGBTSTEMinar19/","/reflection/2018/12/31/NewYearsEveReflection/","/blood%20ban/lgbtq+/ethics/2018/12/02/BloodBanVsSpermDonation/","/gene%20editing/ethics/law%20&%20policy/2018/11/27/WhyWeAreNotReadyforGeneticEditedBabies/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2018/10/26/ThickerThanWater/","/privacy/sequencing/ethics/law%20&%20policy/2018/05/11/DNAPrivacyIssuesIE/","/blood%20ban/lgbtq+/ethics/law%20&%20policy/2017/08/24/ReflectionBloodPolicyIE/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
